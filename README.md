@@ -29,6 +29,6 @@
 
 This project has been developed by:
 
-| Avatar                                                    | Name       | Nickname | Email                                       |
-| --------------------------------------------------------- | ---------- | -------- | ------------------------------------------- |
-| ![](https://avatars.githubusercontent.com/u/39932141?v=4) | Haneul Lee | le2sky   | [le2sky@kakao.com](mailto:le2sky@kakao.com) |
+| Avatar                                                                                         | Name       | Nickname | Email                                       |
+| ---------------------------------------------------------------------------------------------- | ---------- | -------- | ------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/39932141?v=4" width="100px" height="100px"/> | Haneul Lee | le2sky   | [le2sky@kakao.com](mailto:le2sky@kakao.com) |
