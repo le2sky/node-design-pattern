@@ -10,15 +10,20 @@
 
 - 모듈(module)
   - 노출식 모듈 패턴(Revealing Module Pattern)
-  - 모듈 로더(CommonJs require copy)
-    - module.exports와 exports 사용 차이
-  - 순환 종속성
-  - 모듈 정의 패턴
-    - Named exports
-    - 함수 내보내기(서브 스택 패턴)
-    - 클래스 내보내기
-    - 인스턴스 내보내기
-    - 몽키 패치
+  - CommonJS Way
+    - 모듈 로더(CommonJs require copy)
+      - module.exports와 exports 사용 차이
+    - 순환 종속성
+    - 모듈 정의 패턴
+      - Named exports
+      - 함수 내보내기(서브 스택 패턴)
+      - 클래스 내보내기
+      - 인스턴스 내보내기
+      - 몽키 패치
+  - ESM Way
+    - Named exports and imports
+    - Default exports and imports
+    - Mixed exports
 
 ## Folder structure
 
