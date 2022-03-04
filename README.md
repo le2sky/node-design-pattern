@@ -24,6 +24,7 @@
     - Named exports and imports
     - Default exports and imports
     - Mixed exports
+    - 비동기 임포트
 
 ## Folder structure
 
