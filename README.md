@@ -25,6 +25,7 @@
     - Default exports and imports
     - Mixed exports
     - 비동기 임포트
+    - 읽기 전용 라이브 바인딩
 
 ## Folder structure
 
