@@ -34,6 +34,8 @@
     - 예측할 수 없는 함수 문제
     - Zalgo의 사례
     - 동기 API 사용으로 Zalgo 사례 예방
+    - 지연실행으로 비동기성 보장
+    - 콜백 규칙
 
 ## Folder structure
 
