@@ -37,6 +37,9 @@
     - 지연실행으로 비동기성 보장
     - 콜백 규칙
     - 캐치되지 않은 예외(fail-fast 접근법)
+  - 관찰자 패턴(The observer pattern) : 상태 변화가 일어날 떄 관찰자에게 통지할 수 있는 객체를 정의
+    - EventEmitter 클래스
+    - EventEmitter 생성 및 사용
 
 ## Folder structure
 
