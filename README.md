@@ -36,6 +36,7 @@
     - 동기 API 사용(Zalgo 사례 예방)
     - 지연실행으로 비동기성 보장
     - 콜백 규칙
+    - 캐치되지 않은 예외(fail-fast 접근법)
 
 ## Folder structure
 
