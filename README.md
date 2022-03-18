@@ -8,9 +8,9 @@
 
 ## Index
 
-- 모듈(module)
-  - 노출식 모듈 패턴(Revealing Module Pattern)
-  - CommonJS Way
+- [모듈(module)]()
+  - [노출식 모듈 패턴(Revealing Module Pattern)]()
+  - [CommonJS Way]()
     - 모듈 로더(CommonJs require copy)
       - module.exports와 exports 사용 차이
     - 순환 종속성
@@ -20,15 +20,16 @@
       - 클래스 내보내기
       - 인스턴스 내보내기
       - 몽키 패치
-  - ESM Way
+  - [ESM Way]()
     - Named exports and imports
     - Default exports and imports
     - Mixed exports
     - 비동기 임포트
     - 읽기 전용 라이브 바인딩
-    - 순환 종속성
-- Callback 과 Event
-  - 콜백 패턴
+    - 순환 종속성 분석
+    - 모듈 수정
+- [Callback 과 Event]()
+  - [콜백 패턴]()
     - 동기식 연속 전달 방식
     - 비동기식 연속 전달 방식
     - 예측할 수 없는 함수 문제
@@ -37,9 +38,11 @@
     - 지연실행으로 비동기성 보장
     - 콜백 규칙
     - 캐치되지 않은 예외(fail-fast 접근법)
-  - 관찰자 패턴(The observer pattern) : 상태 변화가 일어날 떄 관찰자에게 통지할 수 있는 객체를 정의
+  - [관찰자 패턴(The observer pattern)]()
     - EventEmitter 클래스
     - EventEmitter 생성 및 사용
+    - 오류 전파
+    - 관찰 가능한 객체 만들기
 
 ## Folder structure
 
