@@ -43,6 +43,8 @@
     - EventEmitter 생성 및 사용
     - 오류 전파
     - 관찰 가능한 객체 만들기
+    - Eventemitter와 메모리 누구
+    - 동기 및 비동기 이벤트
 
 ## Folder structure
 
