@@ -1,0 +1,17 @@
+{
+  "name": "web-spiter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webSpider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "mkdirp": "^0.5.5",
+    "slug": "^1.1.0",
+    "superagent": "^5.2.2"
+  }
+}
